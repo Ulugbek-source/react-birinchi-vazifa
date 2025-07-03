@@ -1,7 +1,5 @@
-import Ipsum1 from '../assets/images/logoipsum.png'
-import Ipsum2 from '../assets/images/logoipsum2.png'
-import Ipsum3 from '../assets/images/logoipsum3.png'
-import Ipsum4 from '../assets/images/logoipsum4.png'
+import { Ipsum1, Ipsum2, Ipsum3, Ipsum4 } from '../../assets/images'
+import './trust.css'
 
 function Trust() {
 	return (

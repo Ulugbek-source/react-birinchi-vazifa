@@ -1,0 +1,26 @@
+/* Site header */
+.site-header {
+	padding: 40px 0 13px;
+}
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.navbar {
+	display: flex;
+	gap: 40px;
+}
+.navbar > a {
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 28px;
+	letter-spacing: 0%;
+	color: #000;
+}
+.navbar > a:last-child {
+	display: flex;
+	gap: 6px;
+	align-items: center;
+}
+/* Site header */

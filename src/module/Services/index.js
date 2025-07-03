@@ -1,6 +1,5 @@
-import Card1 from '../assets/images/card1.png'
-import Card2 from '../assets/images/card2.png'
-import Card3 from '../assets/images/card3.png'
+import { Card1, Card2, Card3 } from '../../assets/images'
+import './service.css'
 
 function Services() {
 	return (
